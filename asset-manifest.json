@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://ermanav.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://ermanav.github.io/task-management-frontend/static/js/main.c7e8b037.chunk.js",
+    "main.js.map": "https://ermanav.github.io/task-management-frontend/static/js/main.c7e8b037.chunk.js.map",
+    "runtime~main.js": "https://ermanav.github.io/task-management-frontend/static/js/runtime~main.8219dfae.js",
+    "runtime~main.js.map": "https://ermanav.github.io/task-management-frontend/static/js/runtime~main.8219dfae.js.map",
+    "static/js/2.9d422f9e.chunk.js": "https://ermanav.github.io/task-management-frontend/static/js/2.9d422f9e.chunk.js",
+    "static/js/2.9d422f9e.chunk.js.map": "https://ermanav.github.io/task-management-frontend/static/js/2.9d422f9e.chunk.js.map",
+    "index.html": "https://ermanav.github.io/task-management-frontend/index.html",
+    "precache-manifest.5437f573860a44918b9162778f58714c.js": "https://ermanav.github.io/task-management-frontend/precache-manifest.5437f573860a44918b9162778f58714c.js",
+    "service-worker.js": "https://ermanav.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://ermanav.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
